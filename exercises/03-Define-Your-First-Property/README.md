@@ -7,8 +7,8 @@ This is an example:
 
 ```Python
 class ClassName{
-    def __init__(self, name):
-        self.name = name    # instance variable unique to each instance
+    def __init__():
+        self.name = "foo1"
 }
 
 ```
