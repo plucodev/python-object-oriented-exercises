@@ -6,10 +6,10 @@ In Python the __init__() method is called the constructor and is always called w
 This is an example:
 
 ```Python
-class ClassName{
-    def __init__():
+class ClassName:
+    def __init__(self):
         self.name = "foo1"
-}
+
 
 ```
 
@@ -22,7 +22,8 @@ Using the Python naming convention, add the following properties to the Person c
 
 
 ## 💡Hint:
-**All property values must be string.**
+**All properties values must be string.**
+- Name your properties in this way: **name**, **last_name** and **birth_date**
 
 
 
