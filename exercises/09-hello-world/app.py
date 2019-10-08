@@ -1,4 +1,4 @@
-print("Hello World")
+print("hello")
 
 def my_function():
   print("Hello Inside Function")
