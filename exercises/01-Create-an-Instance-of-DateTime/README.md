@@ -21,8 +21,8 @@ Today is: 9-13-2019
 ```
 
 ## 💡Hint:
-method to format a date in Python. You can convert a date into any possible desired format by using this method.
-strftime method is used to create a string representing the date under the control of explicit format string.
+**datetime** is a method to format a date in Python. You can convert a date into any possible desired format by using this method.
+**strftime** method is used to create a string representing the date under the control of explicit format string.
 
 Check the docs:
 - https://docs.python.org/3/library/datetime.html#datetime.date.strftime
